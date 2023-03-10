@@ -1,0 +1,42 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+hr{
+  margin: 0px;
+}
+
+th{
+  text-align: center;
+  font-size: 17px;
+}
+td{
+  text-align: center;
+  font-size: 17px;
+}
+
+.card-group{
+  margin-top: 50px;
+  
+}
+.titre{
+  text-align: center;
+  margin-top: 50px;
+  font-family: Serif;
+  font-size: 55px;
+}
+a{
+  font-weight: bold;
+}
+li{
+  font-weight: bold;
+}
+.Home-Page{
+  background-image: url('./components/image.png');
+  height: 100%; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
